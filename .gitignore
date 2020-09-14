@@ -73,3 +73,8 @@
 /macos/Flutter/GeneratedPluginRegistrant.swift
 /lib/generated_plugin_registrant.dart
 /.flutter-plugins-dependencies
+/firebase.json
+/.firebaserc
+/.firebase/
+/macos/Runner/GoogleService-Info.plist
+/ios/Flutter/.last_build_id
